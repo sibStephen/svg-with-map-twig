@@ -1,8 +1,6 @@
 # svg-with-map-twig
 
-![twig_2](https://user-images.githubusercontent.com/10940743/176993931-0da7b97f-1aff-4675-8f08-fb18a1a5e2f6.png)
-+
-![world](https://user-images.githubusercontent.com/10940743/176993934-320cfe26-944b-42df-b2f9-9ab04ce95810.svg)
+![twig_2](https://user-images.githubusercontent.com/10940743/176993931-0da7b97f-1aff-4675-8f08-fb18a1a5e2f6.png) ![world](https://user-images.githubusercontent.com/10940743/176993934-320cfe26-944b-42df-b2f9-9ab04ce95810.svg)
 
 
 Code snippet demonstrating, SVG Map with twig in Drupal with storybook syntax.
