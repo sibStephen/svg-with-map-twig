@@ -1,5 +1,4 @@
 import mapsTwig from './maps.twig';
-// import officeListingData from './office-listing.yml';
 import mapsData from './maps.yml';
 
 /**
