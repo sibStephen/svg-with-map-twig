@@ -1,6 +1,6 @@
 # svg-with-map-twig
 
-<img src="https://user-images.githubusercontent.com/10940743/176994407-856f025a-51e1-4628-aec7-1410db64b168.png" width="50%"/> <img src="https://user-images.githubusercontent.com/10940743/176993934-320cfe26-944b-42df-b2f9-9ab04ce95810.svg" width="500px" width="50%" />
+<img src="https://user-images.githubusercontent.com/10940743/176994407-856f025a-51e1-4628-aec7-1410db64b168.png" width="50%"/> <img src="https://user-images.githubusercontent.com/10940743/176993934-320cfe26-944b-42df-b2f9-9ab04ce95810.svg" width="100px" />
 
 
 Steps to install and use - 
