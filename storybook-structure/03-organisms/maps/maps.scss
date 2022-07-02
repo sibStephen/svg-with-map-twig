@@ -1,0 +1,18 @@
+.map-main-container {
+
+  // Adding positioning to map to center align.
+  position: relative;
+  min-height: rem(800px);
+
+  // Setting active countries color to blue-shade.
+  .active-country {
+    path {
+      fill: #9BEBD3;
+    }
+  }
+
+  // Default coloring of map countries.
+  .country path {
+    fill: #e2e2e2;
+  }
+}

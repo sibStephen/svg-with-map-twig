@@ -1,0 +1,31 @@
+{#
+  /**
+  * Attaching maps library (Which includes js and css).
+  */
+#}
+
+{{ attach_library('maps')}}
+
+{#
+  /**
+  * Iterating available data from either yml or Drupal system.
+  */
+#}
+
+<div class="map-main-container custom-container">
+  {% for i, value in mapcomponent[0].countries %}
+    {% set mapKeys = mapcomponent[0].countries[i]|keys[0] %}
+      <div class="countryname" id="{{mapKeys}}">
+        {{ mapcomponent[0].countries[i][mapKeys][0].title }}
+      </div>
+  {% endfor %}
+
+  {#
+    /**
+    * SVG map called below from molecules.
+    */
+  #}
+  {% embed "@molecules/svgmap/svgmap.twig" %}
+  {% endembed %}
+
+</div>

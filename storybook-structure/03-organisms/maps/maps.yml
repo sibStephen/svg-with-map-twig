@@ -1,0 +1,18 @@
+mapcomponent:
+[
+  countries:
+  [
+    [IN]:
+    [
+      title: 'India',
+      code: 'IN',
+    ],
+  ],
+  [
+    [FR]:
+    [
+      title: 'France',
+      code: 'FR',
+    ],
+  ],
+]
